@@ -1,2 +1,2 @@
 # Ignore dependencies and build artifacts
-backend/node_modules/
+server/node_modules/
